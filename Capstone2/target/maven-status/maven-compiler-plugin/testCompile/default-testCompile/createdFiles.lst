@@ -1,0 +1,6 @@
+stepDefiniation\ViewBookings.class
+stepDefiniation\LoginClass.class
+stepDefiniation\BookingClass.class
+stepDefiniation\SignupClass.class
+stepDefiniation\Steps.class
+runner\TestRunner.class
